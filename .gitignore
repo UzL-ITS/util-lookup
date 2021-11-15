@@ -1,0 +1,7 @@
+linux-sgx-local-install
+
+.cproject
+.project
+.settings/
+
+*.out

@@ -1,0 +1,8 @@
+*.o
+*.a
+!Enclave/lib64/**/*.a
+*.so
+*_t.*
+*_u.*
+
+pp_lookup
