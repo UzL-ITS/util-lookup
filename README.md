@@ -21,6 +21,8 @@ This work will appear in the proceedings of the 2021 ACM SIGSAC Conference on Co
 
 ## Requirements and how to run
 
+This code was run and tested with Ubuntu 20.04.
+
 ### System config
 
 ### Kernel boot config
